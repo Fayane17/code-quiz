@@ -6,3 +6,5 @@ The timer doesn't currently work properly but it is suppose to start when the qu
 Currently there is no scoreboard.
 
 Technologies Used: HTML, CSS, JavaScrip
+
+code quiz URL: https://fayane17.github.io/code-quiz/
